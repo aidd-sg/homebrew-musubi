@@ -4,19 +4,19 @@ Homebrew tap for **R-Musubi**, the internal AI assistant for Jira, Confluence,
 Bitbucket, Figma, and Outlook.
 
 > This directory is the **staging copy** of the tap. The live tap is the GitHub
-> repo **`aidd/homebrew-musubi`** (the `homebrew-` prefix is required). See
+> repo **`aidd-sg/homebrew-musubi`** (the `homebrew-` prefix is required). See
 > `../RELEASE.md` (Part A5 + Part B) for how to publish and maintain it.
 
 ## Install
 
 ```bash
-brew install --cask aidd/musubi/r-musubi
+brew install --cask aidd-sg/musubi/r-musubi
 ```
 
 or, equivalently:
 
 ```bash
-brew tap aidd/musubi
+brew tap aidd-sg/musubi
 brew install --cask r-musubi
 ```
 

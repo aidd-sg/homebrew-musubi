@@ -1,6 +1,6 @@
 cask "r-musubi" do
-  version "0.1.8"
-  sha256 "553850b4c699fec4bd57a38303dd9a3313c6da8f0dcec76f1ed7e0216cd4b204"
+  version "0.1.9"
+  sha256 "d1bfd06db99c511d0329d39434811c2fa54158b2da1daa47a780d36aefd38021"
 
   url "https://musubi.aidd.space/download/R-Musubi-#{version}-arm64.dmg"
   name "R-Musubi"
